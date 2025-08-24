@@ -5,7 +5,7 @@ import ResumeCard from "~/components/ResumeCard";
 
 export function meta({ }: Route.MetaArgs) {
   return [
-    { title: "Trackify.AI" },
+    { title: "Talentify.AI" },
     { name: "description", content: "AI-driven feedback that fuels better matches" },
   ];
 }
